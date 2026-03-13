@@ -1,16 +1,45 @@
-## Hi there 👋
+# Rogerio Belo
 
-<!--
-**rogeriobelo90/rogeriobelo90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de Dados com experiência em dados fiscais, ERP e automação de processos.
 
-Here are some ideas to get you started:
+Atuo na interseção entre contabilidade, tributação e tecnologia, utilizando dados para gerar insights e melhorar processos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Principais tecnologias
+
+- SQL
+- Python
+- Power BI
+- Excel
+- ETL
+- Dados fiscais (SPED, NF-e)
+
+## Projetos em destaque
+
+### Pipeline de Dados de NF-e
+Projeto em Python para leitura e processamento de XML de notas fiscais eletrônicas.
+
+Tecnologias:
+Python, XML, ETL
+
+Repositório:
+https://github.com/rogeriobelo90/nfe-fiscal-data-pipeline
+
+---
+
+### Dashboard de PIS/COFINS
+Projeto de análise de dados fiscais utilizando Power BI para análise de créditos e débitos tributários.
+
+Tecnologias:
+Power BI, Power Query, modelagem de dados
+
+Repositório:
+https://github.com/rogeriobelo90/analise-pis-cofins-powerbi
+
+---
+
+## Interesses profissionais
+
+- Data Analytics
+- Business Intelligence
+- Tax Technology
+- Dados fiscais
